@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/app-zeal/assets/main/logo.png" alt="Logo da Zeal AI" width="120"/>
+</p>
+
 # 🦷 Zeal AI
 
 **Soluções inteligentes para clínicas odontológicas.**
@@ -23,5 +27,5 @@ A Zeal é uma plataforma que une tecnologia e odontologia, oferecendo ferramenta
 
 ## 💼 Contato
 
-📩 **E-mail:** *em breve* 
+📩 **E-mail:** *em breve*  
 🌐 **Website:** *em breve*
