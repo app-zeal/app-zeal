@@ -1,4 +1,4 @@
-<p align="center">
+<p align="start">
   <img src="https://avatars.githubusercontent.com/app-zeal" alt="Logo da Zeal AI" width="120"/>
 </p>
 
