@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/app-zeal/assets/main/logo.png](https://avatars.githubusercontent.com/u/236509819?s=200&v=4)" alt="Logo da Zeal AI" width="120"/>
+  <img src="https://avatars.githubusercontent.com/app-zeal" alt="Logo da Zeal AI" width="120"/>
 </p>
 
 # 🦷 Zeal AI
