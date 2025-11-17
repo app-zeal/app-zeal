@@ -27,5 +27,4 @@ A Zeal é uma plataforma que une tecnologia e odontologia, oferecendo ferramenta
 
 ## 💼 Contato
 
-📩 **E-mail:** *em breve*  
-🌐 **Website:** *em breve*
+🌐 **Website:** https://zealtecnologia.com
